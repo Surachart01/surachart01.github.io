@@ -1,0 +1,41 @@
+.color{
+    border: black 3px;
+    background-color:  #FFF3CC;
+}
+.footer{
+    height: 600px;
+}
+button{
+    background-color: darkgray;
+}
+.img{
+    height: 450px;
+}   
+.carousel{
+    width: 700px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+.navbar{
+    height: 70px;
+    background-color: #E0A932 ;
+    border: 2px;
+    border-radius: 3px;
+}
+.navbar-brand {
+    color: #ffffff;
+}
+.img-index2{
+    margin-left: 300px;
+    margin-top: 20px;
+}
+img{
+    border: 3px;
+    border-radius: 40px;
+}
+.container{
+    height: auto;
+}
+h3{
+    text-align: center;
+}
